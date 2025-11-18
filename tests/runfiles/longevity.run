@@ -19,5 +19,5 @@ quiet = False
 user = root
 timeout = 10800
 
-[/opt/zfs-tests/tests/longevity]
+[tests/longevity/slop_space_test]
 tests = ['slop_space_test']
